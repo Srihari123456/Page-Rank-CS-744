@@ -12,7 +12,7 @@
 2. Wiki Articles
 
 ## Setup
-- Configure Hadoop and Spark as detailed in <a href="https://pages.cs.wisc.edu/~shivaram/cs744-sp24/assignment1.html">[Link to Assignment]</a> and place it in /mnt/data/ \
+- Configure Hadoop and Spark as detailed in <a href="https://pages.cs.wisc.edu/~shivaram/cs744-sp24/assignment1.html">[Link to Assignment]</a> and place it in /mnt/data/ 
 
 - Execute each task using
 ```
